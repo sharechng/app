@@ -1,0 +1,4 @@
+export const TWITTER_API_KEY = {
+  TWITTER_COMSUMER_KEY: "6QrATuQlxlutY1vGKrrCIAwyD",
+  TWITTER_CONSUMER_SECRET: "dCrmloBGOPw5NlxZ5GSMjDsJ0oASyCvlrZiyTxvx5gGNgxoOYB",
+};
